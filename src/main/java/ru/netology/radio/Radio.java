@@ -28,7 +28,7 @@ public class Radio {
         }
     }
 
-    public void descreaseVolume() {
+    public void decreaseVolume() {
         if (currentVolume != 0) {
             currentVolume--;
         } else {
