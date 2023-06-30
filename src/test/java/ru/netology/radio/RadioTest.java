@@ -105,7 +105,7 @@ public class RadioTest {
     }
 
     @Test
-    public void switchToNext() {
+    public void switchToNext7() {
         Radio radio = new Radio();
 
         radio.setCurrentStation(6);
